@@ -1,0 +1,32 @@
+.nav-wrapper .brand-logo img {
+    max-height: 64px!important;
+    padding: 15px 0!important;
+  }
+  .nav-wrapper .brand-logo .logo-tittle {
+    vertical-align: top;
+    color: #333;
+  }
+  .nav-wrapper .brand-logo .logo-tittle span {
+    vertical-align: top;
+  }
+  
+  .no-shadows {
+    box-shadow: none!important;
+  }
+  
+  nav {
+    background-color: transparent;
+    transition: 1s;
+  }
+  
+  .sidenav .btn{
+    color: black;
+  }
+   
+  .navbar-fixed {
+    position: absolute;z-index:999999999;
+  }
+
+  ul li a{
+      color: #333;
+  }

@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%!important;
+    margin: 0;
+    overflow: hidden;
+}
+
+.bg {  
+    background-image: url("../img/SOCIAL-FUNDING\ 1.jpg");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: fixed;
+    z-index: -1;
+    filter: blur(35px);
+}
+
+
+.abs{
+  position: absolute;
+  margin-top: 50px;
+  color: white;
+}
+
+.login-box {
+  position: relative;
+  height: 100%;
+  left: 0;
+  
+}
+
+.log-bg{
+  background-image: linear-gradient(white,white);
+  border-radius: 35px;
+}
+ 
+
+.login-box .btn{
+  color: #333;
+  background-color: transparent;
+  border: 2px solid orange; 
+  transition: 1s;
+}
+
+.login-box .btn:hover{
+  background-color: orange;
+  border: 2px solid orange  ; 
+}
+
+.radius-btn{
+  border-radius: 100px;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+
