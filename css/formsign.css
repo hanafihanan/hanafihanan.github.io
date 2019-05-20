@@ -60,4 +60,7 @@ html,body{
   box-sizing: border-box;
 }
 
+.input-field{
+  margin: -0.15em 0;
+}
 
